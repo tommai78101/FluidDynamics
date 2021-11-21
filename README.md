@@ -1,5 +1,7 @@
 # FluidDynamics
 
+![](https://github.com/tommai78101/FluidDynamics/blob/master/GIF.gif?raw=true)
+
 Working proof of concept of Fluid Dynamics
 
 This is a Java Swing / Java AWT application demonstrating fluid simulations in action.
