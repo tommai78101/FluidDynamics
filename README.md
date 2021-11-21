@@ -1,4 +1,4 @@
-# FluidDynamics
+# Fluid Dynamics
 
 ![](https://github.com/tommai78101/FluidDynamics/blob/master/GIF.gif?raw=true)
 
